@@ -27,5 +27,5 @@ export default function isValid(ic: string | number): boolean {
   }
 
   // Calculate checksum and check if is equal to passed IC
-  return ((11 - (sum % 11)) % 10).toString() === ic.charAt(-1)
+  return ((11 - (sum % 11)) % 10).toString() === ic.charAt(7)
 }
