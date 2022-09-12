@@ -1,4 +1,4 @@
-# ic-validator
+# IČ Validator
 Simple Typescript validator for Czech business identification number (IČ)
 
 ```
