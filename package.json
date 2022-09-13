@@ -1,7 +1,7 @@
 {
   "name": "ic-validator",
-  "version": "1.0.1",
-  "description": "Simple Typescript validator for Czech business identification number (IČ)",
+  "version": "1.0.2",
+  "description": "Simple Typescript/Javascript validator for Czech business identification number (IČ)",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
   "files": [
@@ -22,6 +22,8 @@
   "keywords": [
     "ičo",
     "ič",
+    "ico",
+    "ic",
     "czech",
     "business",
     "identification",
